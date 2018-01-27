@@ -1,0 +1,17 @@
+favicon {
+	
+}
+body {
+	text-align: center;
+}
+/*Make the bullet points stay close to the text:*/
+ul {
+list-style-position: inside;
+}
+/*Styles for headings:*/
+h1, h2 {
+	font-family: Georgia;
+	color: green;
+	font-style: bold;
+	font-style: italic;
+}
