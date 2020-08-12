@@ -11,3 +11,6 @@ greeting = 'Good  morning!';
 greeting = 'Welcome!'; 
 }
 document.write('<h3>' + greeting + '</h3>');
+
+let d = new Date();
+document.body.innerHTML = "<h1>Today's date is " + d + "</h1>"
